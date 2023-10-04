@@ -1,6 +1,10 @@
 package br.com.apicosulta.consultaapi.service;
 
-import br.com.apicosulta.consultaapi.model.CepModel;
+
+
+
+import br.com.cobradev.apiconsulta.model.CepModel;
+import br.com.cobradev.apiconsulta.model.CnpjModel;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
@@ -9,7 +13,7 @@ public class CnpjService {
 
     private final RestTemplate restTemplate;
 
-    public CnpjService(RestTemplate restTemplate) {
+    public CnpjServiceervice(RestTemplate restTemplate) {
         this.restTemplate = restTemplate;
     }
 
