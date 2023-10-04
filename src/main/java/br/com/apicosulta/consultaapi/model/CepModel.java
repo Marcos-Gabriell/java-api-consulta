@@ -5,7 +5,7 @@ import lombok.Data;
 import java.io.Serializable;
 
 @Data
-public class CepModel implements Serializable {
+public class CNPJModelCepModel implements Serializable {
 
     private String cep;
     private String logradouro;
