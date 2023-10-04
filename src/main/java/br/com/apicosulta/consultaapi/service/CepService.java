@@ -2,7 +2,7 @@ package br.com.apicosulta.consultaapi.service;
 
 
 
-import br.com.apiconsulta.model.CepModel;
+import br.com.apicosulta.consultaapi.model.CepModel;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
