@@ -13,6 +13,7 @@ public class CNPJService {
 
         public CNPJService(RestTemplate restTemplate) {
             this.restTemplate = restTemplate;
+
         }
 
         public CepModel consultar(String cep) {

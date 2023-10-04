@@ -12,6 +12,7 @@ public class CepService {
         private final RestTemplate restTemplate;
 
         public CepService(RestTemplate restTemplate) {
+
             this.restTemplate = restTemplate;
         }
 
