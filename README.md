@@ -8,7 +8,6 @@
 </div><br>
 
 
-
 Este é um projeto de exemplo que demonstra como consumir a API Via CEP para consultar CEPs de cidades e a API Brasil API para consultar CNPJs. O projeto é desenvolvido em Java e utiliza o framework Spring Boot para facilitar o desenvolvimento.
 
 ## Demonstração de Consulta
