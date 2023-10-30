@@ -65,6 +65,3 @@ A estrutura do projeto segue as melhores práticas do Spring Boot:
 Sinta-se à vontade para contribuir para este projeto. Abra um Pull Request com suas melhorias ou correções.
 
 
-
-
-
